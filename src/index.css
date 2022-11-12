@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{position: relative;}
+.navbar .brand{position: absolute;left: 10%;font-family: 'Alkalami', serif;}
+.carousel,.carousel-inner{height: 500px;}
+
+
+
